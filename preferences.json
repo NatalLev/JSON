@@ -1,0 +1,26 @@
+{
+	"person-name": "Nataly",
+	"person-age": 38,
+	"Preferences": {
+			"favorite_hobby": {
+			"hobby_1":"sport",
+			"hobby_2":"traval",
+			"hobby_3":"read"},
+					 
+			"favorite_movies": {
+			"movies_1":"The Pursuit of Happyness",
+			"movies_2": "Eat,Pray, Love",
+			"movies_3":"Avatar"}
+			}
+	}
+
+
+
+
+
+
+
+
+
+
+}
