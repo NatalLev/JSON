@@ -1,0 +1,22 @@
+
+{
+	"person-name":"Nataly",
+	"person-age": 38,
+	"selary": 1000,
+	"children":{
+		"childe_1":"son",
+		"name":"Matvey",
+		"age": 10},
+		{
+		"chalde_2":"son",
+		"name":"Egor",
+		"age": 9 },
+	"pets":{
+		"pet_1":"dog",
+		"name":"Kira",
+		"age": 10},
+		{"pet_2":"parrot",
+		"name":"Gosha",
+		"age": 1 }
+	}
+
