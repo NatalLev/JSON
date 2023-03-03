@@ -1,13 +1,13 @@
 
 {
   "Bug_report":{
-              "ID":01,
+              "ID":1,
               "Title":"New bug report",
               "Environment":"Windows 10",
               "Precondition":"URL",
               "Severity":"critical",
                "Priority":"medium",
-               "STR":1,2,3,
+               "STR":"",
                 "AR":"",
                 "ER":""
                 }
